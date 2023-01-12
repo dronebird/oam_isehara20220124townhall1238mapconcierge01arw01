@@ -1,0 +1,2 @@
+# oam_isehara20220124townhall1238mapconcierge01arw01
+2022年1月24日神奈川県伊勢原市と災害協定締結時のデモフライトによる空撮
