@@ -9,9 +9,10 @@
 * [Pix4Dcloud-2D/3D](https://cloud.pix4d.com/dataset/1064956/map?shareToken=ab3ae9ea-1461-4d39-87ce-ea67f86f596b)
 * [ひなたGIS](http://hgis.pref.miyazaki.lg.jp/hinata/hinata.html#nv7fMGMYzuXr)
 
-* FYI: 撮影画像は DRONEBIRD2022data Google Drive  
+* FYI: 空中写真撮影画像は DRONEBIRD2022data Google Drive  
 
 ## 撮影詳細
 * 撮影日時：2022年1月24日
 * 離発着場所：神奈川県伊勢原市役所
 * ドローン：　エアロボウィング　AS-VT01
+* [デモフライト動画　YouTube](https://youtu.be/h0ZwCMaqnsk)
